@@ -2,5 +2,6 @@
 
 ## Setup
 `go install
+
 curl localhost:3000/hello`
 
